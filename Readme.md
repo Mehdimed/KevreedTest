@@ -44,7 +44,7 @@
 
 ###### - Mes dossiers :
 
-- [ ] j'ai créer un dossier , puis je suis revenu un arrièré , une modale est apparu pour me prévenir de l'annulation de la création du dossier. en revenant en arrière , le dossier est quand meme créer. :confused:
+- [ ] j'ai créer un dossier , puis je suis revenu un arrièré (cette faute j'la laisse parce que t'es une arrièré) , une modale est apparu pour me prévenir de l'annulation de la création du dossier. en revenant en arrière , le dossier est quand meme créer. :confused:
 - [ ] j'ai pas pu ajouter un client , du coup j'peux pas avander dans la création d'un dossier :disappointed:
 
 

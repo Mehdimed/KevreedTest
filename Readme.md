@@ -30,7 +30,7 @@
 ##### Partenaires
 
 - [ ] le champs adresse dans l'ajout d'un partenaire s'est grisé après que j'ai tapé un caractère et je ne peux plus le modifier ensuite
-- [ ] j'ai accès au bouton supprimer lors de la création d'un partenaire, limiter ça l'edition
+- [ ] j'ai accès au bouton supprimer lors de la création d'un partenaire, limiter ça à l'edition
 - [ ] je peux pas écrire dans les champs code postal , ville et pays
 
 
